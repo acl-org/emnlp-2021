@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://2021.emnlp.org/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://2021.emnlp.org/volunteers_and_di</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://2021.emnlp.org/blog/2021-04-19-submission-faq</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://2021.emnlp.org/blog/2021-04-19-acl-rolling-review-pilot</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://2021.emnlp.org/blog/2020-11-17-announcing-emnlp</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://2021.emnlp.org/blog/2021-04-19-profile-faq</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://2021.emnlp.org/blog/2021-05-05-survey</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://2021.emnlp.org/blog/2021-05-17-decision-process</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://2021.emnlp.org/blog/2021-05-17-instructions-for-reviewers</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://2021.emnlp.org/blog/2021-07-12-The-auther-response-phase</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://2021.emnlp.org/blog/2021-08-31-faq-after-decision-process</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://2021.emnlp.org/blog/2021-09-27-presentation_formats</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://2021.emnlp.org/blog/2021-10-29-best-paper-awards</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://2021.emnlp.org/blog/2021-10-25-live-tweeting</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://2021.emnlp.org/blog/2021-11-05-interactive-graph</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://2021.emnlp.org/blog</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://2021.emnlp.org/call-for-papers/demos</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://2021.emnlp.org/call-for-papers/ethics-faq</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://2021.emnlp.org/call-for-papers/ethics-review-questions</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://2021.emnlp.org/call-for-papers</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://2021.emnlp.org/call-for-papers/style-and-formatting</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://2021.emnlp.org/keynotes</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://2021.emnlp.org/organizers/ethics-committee</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://2021.emnlp.org/organizers</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://2021.emnlp.org/organizers/senior-program-committee</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://2021.emnlp.org/papers/main</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://2021.emnlp.org/program</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://2021.emnlp.org/registration</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://2021.emnlp.org/sponsors</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://2021.emnlp.org/tutorials/bios_t1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://2021.emnlp.org/tutorials/bios_t3</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://2021.emnlp.org/tutorials/bios_t2</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://2021.emnlp.org/tutorials/bios_t4</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://2021.emnlp.org/tutorials/bios_t6</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://2021.emnlp.org/tutorials/bios_t5</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://2021.emnlp.org/tutorials</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://2021.emnlp.org/venue</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://2021.emnlp.org/workshops</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://2021.emnlp.org/call-for-papers/camera-ready</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://2021.emnlp.org/papers</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+</urlset>
